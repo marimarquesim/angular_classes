@@ -1,0 +1,12 @@
+body {
+    color: rgb(227, 222, 205)
+}
+
+h3 {
+ color: #424242;
+}
+
+hr {
+    border-color: rgb(0, 0, 0);
+    border-radius: 10px;
+}
